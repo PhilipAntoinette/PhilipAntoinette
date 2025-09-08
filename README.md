@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm PhilipAntoinette 👋
 
-<!--
-**PhilipAntoinette/PhilipAntoinette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** passionate about leveraging **Python** and **AI** to build intelligent and impactful solutions.
 
-Here are some ideas to get you started:
+## 🧠 Top Skills
+- **Python**
+- **Artificial Intelligence (AI)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+- [snake_game](https://github.com/PhilipAntoinette/snake_game):  
+  Classic Snake Game reimagined with Python, showcasing fundamental game logic and creative coding.
+
+## 📈 What I'm Working On
+
+Currently, I'm focused on **AI-related projects**—exploring ways to make technology smarter and more accessible.
+
+---
+
+Feel free to check out my work and connect!
